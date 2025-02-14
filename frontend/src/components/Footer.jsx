@@ -7,7 +7,7 @@ const Footer = () => {
       <div className='flex flex-cols sm:grid grid-cols-[3fr_1fr_1fr] gap-14 my-10 mt-40 text-sm'>
         <div>
             <h1 className='text-3xl'>AJIO</h1>
-            <p className='w-full md:w-2/3 text-gray-600 '>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Assumenda totam explicabo quo error illo ex deserunt quidem harum fuga provident est quibusdam, officiis, voluptatem nobis? Nulla molestiae sequi, commodi rem necessitatibus aperiam? Explicabo molestias molestiae quo dolore itaque! Ullam, id.</p>
+            <p className='w-full md:w-2/3 text-gray-600 '>AJIO brings you the latest fashion trends with a curated selection of stylish apparel, footwear, and accessories for men, women, and kids. We are committed to providing high-quality products at unbeatable prices, ensuring a seamless shopping experience with easy returns, secure payments, and fast delivery. Explore a wide range of ethnic wear, casual outfits, and premium brands all in one place. Stay ahead of the fashion curve with AJIO—your ultimate style destination!</p>
         </div>
         <div>
             <p className='text-xl font-medium mb-5'>COMPANY</p>

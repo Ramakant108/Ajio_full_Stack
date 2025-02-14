@@ -8,7 +8,7 @@ const List = ({token}) => {
 
   const fetchList = async () =>{
     try {
-      const response = await axios.get('https://ecommerce-backend-code-51zk.onrender.com/api/product/list');
+      const response = await axios.get('https://ajio-backend-9ev3.onrender.com/api/product/list');
       if (response.data.success) {
         setList(response.data.products)
       } else {

@@ -15,7 +15,7 @@ const Orders = ({ token }) => {
     }
     try {
       const response = await axios.post(
-        "https://ecommerce-backend-code-51zk.onrender.com/api/order/list",
+        "https://ajio-backend-9ev3.onrender.com/api/order/list",
         {},
         { headers: { token } }
       );

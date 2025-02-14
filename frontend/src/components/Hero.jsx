@@ -18,7 +18,6 @@ const Hero = () => {
               <Link to={'/collection'}>
               <p className='font-semibold text-sm md:text-base'>SHOP NOW</p>
               </Link>
-                
                 <p className='w-8 md:w-11 h-[1px] bg-[#414141]'></p>
             </div>
         </div>
